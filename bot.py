@@ -1236,7 +1236,8 @@ def main():
         pass
 
     bot = ModmailBot()
-    bot.run()
+    #TOKEN
+    bot.run('')
 
 
 if __name__ == "__main__":
